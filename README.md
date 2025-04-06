@@ -26,7 +26,7 @@ Install driver: https://www.wch-ic.com/downloads/CH372DRV_EXE.html
 4. Compile the project.
 5. Set the keyboard in bootloader mode (see below).
 6. Flash the project. (*Original firmware will be completed lost*)
-7. Device emulation F19-F15 keyboard
+7. Device emulate F19-F15 keyboard
 
 ## Setting up the Keyboard in Bootloader Mode
 
