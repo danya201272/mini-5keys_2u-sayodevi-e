@@ -28,8 +28,10 @@ Install driver: https://www.wch-ic.com/downloads/CH372DRV_EXE.html
 
 ## Setting up the Keyboard in Bootloader Mode
 
-To enter bootloader mode, CH552G require connect pin P3.6 to vcc. To do this:
-And once press all keyboards after programming 
+To enter bootloader mode, CH552G require connect pin P3.6 to vcc.
+
+And once press all keyboards after programming.
+
 If dont use bootloader,open src/buttons.cpp and delete this or rename buttons.
 ```
 if (btEncActive_s  && bt1Active_s  && bt2Active_s  && bt3Active_s && bt4Active_s)
