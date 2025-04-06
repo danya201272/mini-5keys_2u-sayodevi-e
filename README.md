@@ -39,6 +39,7 @@ if (btEncActive_s  && bt1Active_s  && bt2Active_s  && bt3Active_s && bt4Active_s
     }
 ```
 # Pinout
+
 define PIN_BTN_1 11
 define PIN_BTN_2 32
 define PIN_BTN_3 34
