@@ -3,7 +3,9 @@ Update macropad with arduino
 ## Introduction
 
 My sayo is dead and i repair chip ch552g and create new firmware.
+
 I use this repository https://github.com/eccherda/ch552g_mini_keyboard and remake project for @sayodevice.
+
 ![image](https://github.com/user-attachments/assets/aeaa3f0d-f60f-4a69-bfec-e3ec0eafdc41)
 
 ## How to Build
