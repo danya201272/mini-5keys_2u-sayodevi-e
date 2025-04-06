@@ -4,7 +4,7 @@ Update macropad with arduino
 
 My sayo is dead and i repair chip ch552g and create new firmware.
 I use this repository https://github.com/eccherda/ch552g_mini_keyboard and remake project for @sayodevice.
-!![image](https://github.com/user-attachments/assets/aeaa3f0d-f60f-4a69-bfec-e3ec0eafdc41)
+![image](https://github.com/user-attachments/assets/aeaa3f0d-f60f-4a69-bfec-e3ec0eafdc41)
 
 ## How to Build
 
@@ -40,11 +40,13 @@ if (btEncActive_s  && bt1Active_s  && bt2Active_s  && bt3Active_s && bt4Active_s
 ```
 # Pinout
 
+```
 define PIN_BTN_1 11
 define PIN_BTN_2 32
 define PIN_BTN_3 34
 define PIN_BTN_ENC 33
 define PIN_BTN_4 31
+```
 
 ## Firmware feature
 
