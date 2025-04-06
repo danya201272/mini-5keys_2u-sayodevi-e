@@ -104,7 +104,7 @@ const keyboard_configuration_t configurations[NUM_CONFIGURATION] = {
     },
 };
 ```
-# Use this key
+Use this key
 
 ```
 #define KEY_LEFT_CTRL 0x80
