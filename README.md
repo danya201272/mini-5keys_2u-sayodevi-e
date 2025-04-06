@@ -32,7 +32,8 @@ Install driver: https://www.wch-ic.com/downloads/CH372DRV_EXE.html
 
 To enter bootloader mode, CH552G require connect pin P3.6 to vcc.
 
-![image](https://github.com/user-attachments/assets/702bbbe0-eeb2-4834-b003-032471738a94)
+![image](https://github.com/user-attachments/assets/f731113c-964a-4d4a-9907-133296d73d95)
+
 
 And once press all keyboards after programming.
 
